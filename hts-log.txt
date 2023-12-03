@@ -1,0 +1,21 @@
+HTTrack3.49-4+libhtsjava.so.2 launched on Sun, 03 Dec 2023 16:26:35 at https://kcmdesign2.wixsite.com/mysite
+(winhttrack https://kcmdesign2.wixsite.com/mysite -W -O "/home/harozien/websites/geo-arin" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:26:46	Error: 	"Not Found" (404) at link https://kcmdesign2.wixsite.com/ (from https://kcmdesign2.wixsite.com/mysite)
+16:26:51	Error: 	"Not Found" (404) at link https://kcmdesign2.wixsite.com/media/emptystate.85a4add5.svg (from https://kcmdesign2.wixsite.com/mysite)
+16:26:51	Error: 	"Not Found" (404) at link https://kcmdesign2.wixsite.com/sitemap.xml (from https://kcmdesign2.wixsite.com/mysite)
+16:26:51	Error: 	"Not Found" (404) at link https://kcmdesign2.wixsite.com/feed.xml (from https://kcmdesign2.wixsite.com/mysite)
+16:26:51	Error: 	"Not Found" (404) at link https://kcmdesign2.wixsite.com/${n.uri} (from https://kcmdesign2.wixsite.com/mysite)
+16:26:51	Error: 	"Not Found" (404) at link https://kcmdesign2.wixsite.com/decodeURIComponent(e (from https://kcmdesign2.wixsite.com/mysite)
+16:26:51	Error: 	"Not Found" (404) at link https://kcmdesign2.wixsite.com/mysite/robots.txt (from https://kcmdesign2.wixsite.com/mysite/à-propos-de-nous)
+16:26:51	Error: 	"Not Found" (404) at link https://kcmdesign2.wixsite.com/mysite/feed.xml (from https://kcmdesign2.wixsite.com/mysite/à-propos-de-nous)
+16:26:51	Error: 	"Not Found" (404) at link https://kcmdesign2.wixsite.com/mysite/${n.uri} (from https://kcmdesign2.wixsite.com/mysite/à-propos-de-nous)
+16:26:51	Error: 	"Not Found" (404) at link https://kcmdesign2.wixsite.com/mysite/decodeURIComponent(e (from https://kcmdesign2.wixsite.com/mysite/à-propos-de-nous)
+
+HTTrack Website Copier/3.49-4 mirror complete in 16 seconds : 17 links scanned, 6 files written (2619831 bytes overall) [675553 bytes received at 42222 bytes/sec], 2649568 bytes transferred using HTTP compression in 15 files, ratio 24%
+(10 errors, 0 warnings, 0 messages)
